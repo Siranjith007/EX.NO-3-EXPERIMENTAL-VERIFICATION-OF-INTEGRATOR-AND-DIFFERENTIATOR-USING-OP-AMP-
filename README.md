@@ -68,8 +68,15 @@ We get , R1 =	and hence Rf =
 		
 
 ---
+![WhatsApp Image 2026-03-27 at 2 04 50 PM](https://github.com/user-attachments/assets/3e51dd00-00fa-45f2-a276-7a7aa5cc74ca)
+
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-27 at 2 02 25 PM](https://github.com/user-attachments/assets/ba8bbe74-bed0-4e5b-8a77-9e23f8da7f03)
+
+
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/9c1ad6d1-d0de-4847-af92-7acb029aeec3" />
 
 
 ---
@@ -154,8 +161,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 | Sine Wave      |                          |                             |                           |                           |                              |                            |
 | Square Wave    |                          |                             |                           |                           |                              |                            |
 		
+![WhatsApp Image 2026-03-27 at 1 51 43 PM](https://github.com/user-attachments/assets/f6107ae8-aa8a-4aaf-80c9-e963ae10d5b4)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-27 at 1 52 17 PM](https://github.com/user-attachments/assets/85a12c8c-d5e3-4d97-bb4e-1ba32f3d7f7a)
+
+<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/56be951b-0da3-4b38-9929-62e7f82f4d46" />
 
 ---
 
